@@ -14,3 +14,4 @@ class MyClass {
      public static void myMethod2() {
         System.out.println("I just got executed again");
 }
+}
